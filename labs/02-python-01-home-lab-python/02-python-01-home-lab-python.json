@@ -1,0 +1,31 @@
+{
+  "labId": "02-python-01-home-lab-python",
+  "title": "Home Lab: Setting up Python on Your Desktop OS",
+  "slug": "Understand, install, and verify operation of Python 2.7 and 3.x on your chosen Desktop OS: Windows, Linux, or Mac.",
+  "time": "30",
+  "byod": true,
+  "tags": [
+    {"title": "SDN"},
+    {"title": "DNA"},
+    {"title": "Networking"},
+	{"title": "Python"}
+  ],
+  "related": [
+    ],
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"},
+    {"title": "4.md"},
+    {"title": "5.md"},
+    {"title": "6.md"},	
+    {"title": "7.md"},
+    {"title": "8.md"},
+    {"title": "9.md"}
+  ],
+  "authors": [
+  	{"name": "Paul Zimmerman", "email": "pzimmerm@cisco.com"},
+  	{"name": "Wendell Odom", "email": "wendell@certskills.com"}
+  ],
+  "active": true
+}
