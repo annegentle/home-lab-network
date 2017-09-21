@@ -1,0 +1,34 @@
+{
+  "labId": "02-postman-03-home-lab-postman-etc",
+  "title": "Home Lab: Postman and Other Desktop Programming Tools",
+  "slug": "Build a more detailed understanding of the Postman REST Client while learning the basics of other tools: text editors, IDEs, Git, and Cisco Spark.",
+  "time": "20",
+  "byod": true,
+  "tags": [
+    {"title": "SDN"},
+    {"title": "DNA"},
+    {"title": "Networking"},
+    {"title": "Postman"},
+	  {"title": "API"}
+  ],
+  "related": [
+    ],
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"},
+    {"title": "4.md"},
+    {"title": "5.md"},
+    {"title": "6.md"},
+    {"title": "7.md"},
+    {"title": "8.md"},
+    {"title": "9.md"},
+    {"title": "10.md"},
+    {"title": "11.md"}
+  ],
+  "authors": [
+  	{"name": "Paul Zimmerman", "email": "pzimmerm@cisco.com"},
+  	{"name": "Wendell Odom", "email": "wendell@certskills.com"}
+  ],
+  "active": true
+}
