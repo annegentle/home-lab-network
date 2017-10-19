@@ -1,0 +1,31 @@
+{
+  "labId": "02-netconf-04-home-lab-netconf",
+  "title": "Home Lab: Using NETCONF/YANG from Your Desktop OS",
+  "slug": "Understand and perform the steps to make your home lab desktop OS ready for basic experiments using NETCONF/YANG, managing networking devices in both a DevNet Sandbox and in your own home lab.",
+  "time": "25",
+  "byod": true,
+  "tags": [
+    {"title": "SDN"},
+    {"title": "DNA"},
+    {"title": "Networking"},
+    {"title": "NETCONF"},
+	  {"title": "YANG"}
+  ],
+  "related": [
+    ],
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"},
+    {"title": "4.md"},
+    {"title": "5.md"},
+    {"title": "6.md"},
+    {"title": "7.md"},
+    {"title": "8.md"}
+  ],
+  "authors": [
+  	{"name": "Paul Zimmerman", "email": "pzimmerm@cisco.com"},
+  	{"name": "Wendell Odom", "email": "wendell@certskills.com"}
+  ],
+  "active": true
+}
