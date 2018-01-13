@@ -13,15 +13,24 @@
   "related": [
     ],
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"},
-    {"title": "5.md"},
-    {"title": "6.md"},	
-    {"title": "7.md"},
-    {"title": "8.md"},
-    {"title": "9.md"}
+    {"title": "Install APIC-EM and Discover Your Home Networking Devices",
+     "file:: "1.md"},
+    {"title": "Installation: Software Download and Installation Docs",
+     "file": "2.md"},
+    {"title": "Installation: Home Network Topology",
+     "file": "3.md"},
+    {"title": "Installation: IPv4 Addresses and Routes",
+     "file": "4.md"},
+    {"title": "Installation: DNS, NTP, Usernames"
+     "file": "5.md"},
+    {"title": "Discovery: Introduction"
+     "file": "6.md"},
+    {"title": "Discovery: Configuring Network Devices to Support APIC-EM Discovery",
+     "file": "7.md"},
+    {"title": "Discovery: An Example APIC-EM CDP-Based Discovery",
+     "file": "8.md"},
+    {"title": "Summary Page",
+     "file": "9.md"}
   ],
   "authors": [
   	{"name": "Paul Zimmerman", "email": "pzimmerm@cisco.com"},
