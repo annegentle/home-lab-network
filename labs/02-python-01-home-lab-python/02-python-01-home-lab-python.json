@@ -13,15 +13,24 @@
   "related": [
     ],
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"},
-    {"title": "5.md"},
-    {"title": "6.md"},	
-    {"title": "7.md"},
-    {"title": "8.md"},
-    {"title": "9.md"}
+    {"title": "Introduction",
+     "file": "1.md"},
+    {"title": "Related DevNet Learning Resources",
+     "file": "2.md"},
+    {"title": "Programming to Use DevNet Sandboxes and Other Devices",
+     "file": "3.md"},
+    {"title": "Verifying the Existing Python on Your PC",
+     "file": "4.md"},
+    {"title": "Installing and Verifying Python 2.7",
+     "file": "5.md"},
+    {"title": "Installing and Verifying Python 3.x",
+     "file": "6.md"},
+    {"title": "Running Python Programs",
+     "file": "7.md"},
+    {"title": "A Bit More about Python Commands",
+     "file": "8.md"},
+    {"title": "Summary", 
+     "file": "9.md"}
   ],
   "authors": [
   	{"name": "Paul Zimmerman", "email": "pzimmerm@cisco.com"},

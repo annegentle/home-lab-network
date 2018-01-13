@@ -14,15 +14,24 @@
   "related": [
     ],
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"},
-    {"title": "5.md"},
-    {"title": "6.md"},	
-    {"title": "7.md"},
-    {"title": "8.md"},
-    {"title": "9.md"}
+    {"title": "Introduction: The roles of PIP and Python Virtual Environments",
+     "file": "1.md"},
+    {"title": "Understanding Python Modules",
+     "file": "2.md"},
+    {"title": "PIP Concepts",
+     "file": "3.md"},
+    {"title": "Basic PIP Verification",
+     "file": "4.md"},
+    {"title": "PIP Exercises",
+     "file": "5.md"},
+    {"title": "Python Virtual Environments",
+     "file": "6.md"},
+    {"title": "Exercise: Create a Virtual Environment",
+     "file": "7.md"},
+    {"title": "Exercise: Using the Virtual Environment",
+     "file": "8.md"},
+    {"title": "Summary and More Practice",
+     "file": "9.md"}
   ],
   "authors": [
   	{"name": "Paul Zimmerman", "email": "pzimmerm@cisco.com"},

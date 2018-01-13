@@ -13,15 +13,24 @@
   "related": [
     ],
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-	{"title": "3.md"},
-	{"title": "4.md"},
-	{"title": "5.md"},
-	{"title": "6.md"},
-	{"title": "7.md"},
-	{"title": "8.md"},
-	{"title": "9.md"}
+    {"title": "APIC-EM Home Lab Hardware Platform",
+     "file": "1.md"},
+    {"title": "Recap: To Install APIC-EM at Home, or Not?",
+     "file": "2.md"},
+	  {"title": "Server Hardware Requirements for APIC-EM",
+     "file": "3.md"},
+	  {"title": "APIC-EM on Approved Cisco UCS Servers",
+     "file": "4.md"},
+	  {"title": "APIC-EM on a Generic Rack Server Hardware – Example 1",
+     "file": "5.md"},
+	  {"title": "APIC-EM on a Generic Rack Server Hardware – Example 2",
+     "file": "6.md"},
+	  {"title": "APIC-EM on Intel NUC Mini Desktops",
+     "file": "7.md"},
+	  {"title": "Factory-Built and Build-Your-Own Desktops",
+     "file": "8.md"},
+	  {"title": "Summary",
+     "file": "9.md"}
   ],
   "authors": [
   	{"name": "Paul Zimmerman", "email": "pzimmerm@cisco.com"}

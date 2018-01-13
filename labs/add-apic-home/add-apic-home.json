@@ -1,7 +1,7 @@
 {
   "labId": "add-apic-home",
   "title": "APIC-EM Home Lab Decision, Software, and Networking Devices",
-  "slug": "A tour of factors to consider when considering adding APIC-EM to your home lab, as a tool for learning about network programmability.",
+  "slug": "A tour of factors to consider when adding APIC-EM to your home lab, as a tool for learning about network programmability.",
   "time": "25",
   "byod": true,
   "tags": [
@@ -13,16 +13,26 @@
   "related": [
     ],
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"},
-    {"title": "5.md"},
-    {"title": "6.md"},
-    {"title": "7.md"},
-    {"title": "8.md"},
-    {"title": "9.md"},
-    {"title": "10.md"}
+    {"title": "Your Home Lab, APIC-EM, and Network Programmability",
+     "file": "1.md"},
+    {"title": "Learning Programmability and APIC-EM with Existing DevNet Learning Labs",
+     "file": "2.md"},
+    {"title": "Learning Programmability and APIC-EM with Existing DevNet Sandboxes",
+     "file": "3.md"},
+    {"title": "Other APIC-EM Learning Options",
+     "file": "4.md"},
+    {"title": "Exercise: Assess What You’ve Done So Far",
+     "file": "5.md"},
+    {"title": "Reasons for APIC-EM at Home",
+     "file": "6.md"},
+    {"title": "Software: APIC-EM in Your Home Lab",
+     "file": "7.md"},
+    {"title": "Lab Networking Devices – Beginning Your Analysis",
+     "file": "8.md"},
+    {"title": "APIC-EM’s Myriad Compatibility Lists",
+     "file": "9.md"},
+    {"title": "Summary",
+     "file": "10.md"}
   ],
   "authors": [
   	{"name": "Paul Zimmerman", "email": "pzimmerm@cisco.com"}
