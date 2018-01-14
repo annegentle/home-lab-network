@@ -14,14 +14,22 @@
   "related": [
     ],
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"},
-    {"title": "5.md"},
-    {"title": "6.md"},
-    {"title": "7.md"},
-    {"title": "8.md"}
+    {"title": "Intro: NETCONF/YANG",
+     "file": "1.md"},
+    {"title": "Related DevNet Learning Resources",
+     "file": "2.md"},
+    {"title": "Prepare a Python 3.x Virtual Environment",
+     "file": "3.md"},
+    {"title": "Test SSH and NETCONF Access to a DevNet Sandbox",
+     "file": "4.md"},
+    {"title": "Test the Python ncclient Library from Your Computer to the Sandbox",
+     "file": "5.md"},
+    {"title": "Home Lab Network Design Options",
+     "file": "6.md"},
+    {"title": "Configuring a Network Device to Support NETCONF/YANG",
+     "file": "7.md"},
+    {"title": "Summary",
+     "file": "8.md"}
   ],
   "authors": [
   	{"name": "Paul Zimmerman", "email": "pzimmerm@cisco.com"},
